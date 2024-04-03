@@ -1,0 +1,43 @@
+{
+  "name": "drawmatic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestaBorrigo330/drawmatic.git"
+  },
+  "author": "CrestaBorrigo330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestaBorrigo330/drawmatic/issues"
+  },
+  "homepage": "https://github.com/CrestaBorrigo330/drawmatic#readme",
+  "dependencies": {
+    "@yindongfang/keybinding": "^1.0.1",
+    "cytoscape": "^3.28.1",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-odd": "^3.0.1",
+    "lazy-store-loader": "^2.0.3",
+    "nodemon": "^3.1.0",
+    "querystring": "^0.2.1",
+    "uuid": "^9.0.1",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0",
+    "svg.js": "^1.0.0",
+    "apexcharts": "^1.0.0",
+    "highcharts": "^1.0.0",
+    "sigma.js": "^1.0.0",
+    "d3": "^1.0.0",
+    "cyto-connector": "^1.0.0",
+    "cyto-service": "^1.0.0",
+    "cyto-controller": "^1.0.0",
+    "cyto-scraper": "^1.0.0",
+    "cyto-simulator": "^1.0.0"
+  }
+}
